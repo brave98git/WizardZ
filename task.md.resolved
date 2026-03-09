@@ -1,0 +1,20 @@
+# Task: Mobile Responsiveness for WizardZ
+
+- [ ] Planning and Analysis [/]
+    - [x] Analyze existing codebase
+    - [/] Create implementation plan
+- [ ] Bug Fixes [ ]
+    - [ ] Fix typos in [script.js](file:///d:/WEB-DEV/JS%20Projects/Tier-3/WizardZ/script.js) (`duarion`, `oapcity`)
+- [ ] CSS Responsiveness [ ]
+    - [ ] Update `nav` for mobile
+    - [ ] Update `.center` section for mobile
+    - [ ] Update `.section1bottom` for mobile
+    - [ ] Update `.services` header for mobile
+    - [ ] Update `.container` and `.elem` for mobile
+    - [ ] Update `.section3` for mobile
+- [ ] Animation Adjustments [ ]
+    - [ ] Adjust GSAP animations for mobile screens
+    - [ ] Ensure `ScrollTrigger` works correctly on mobile scroll
+- [ ] Final Verification [ ]
+    - [ ] Verify layout on different screen sizes using browser tool
+    - [ ] Verify animations on mobile view
